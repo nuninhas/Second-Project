@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: tan;
+}
+.mylink{
+    background-color: seagreen;
+    width: 100px;
+    padding: 100px;
+    margin: 140px 500px;
+    text-align: center;
+    font-family:cursive;
+    font-style: oblique;
+    border: 2px;
+}
